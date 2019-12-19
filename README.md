@@ -1,2 +1,2 @@
-# spark-neo4j
-How to write Spark data frame to Neo4j database
+# spark-graph
+Spark Graph and Neo4j
